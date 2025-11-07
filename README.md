@@ -10,4 +10,4 @@ directly call `hash_sha_B(text)`
 - Easy to use
 
 ### disadv
-Not very useful
+- Not very useful
